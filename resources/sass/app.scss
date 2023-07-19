@@ -1,0 +1,60 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.mt-6{
+    margin-top: 15%;
+}
+.ta-l{
+    text-align: left;
+}
+.s1-h{
+    height: 40%;
+}
+.s1-w{
+    width: 70%;
+}
+.spectral1{
+    font: normal normal bold 15px/33px Spectral;
+    letter-spacing: 0.55px;
+    color: #383838;
+    text-transform: capitalize; 
+    opacity: 1;
+}
+.spectral2{
+    font: normal normal bold 15px/33px Spectral;
+    letter-spacing: 0.55px; 
+    color: #929292; 
+    text-transform: capitalize; 
+    opacity: 1;
+}
+.spectral3 {
+    text-align: left;
+    font: normal normal bold 42px/50px Spectral;
+    letter-spacing: 1.05px;
+    color: #3E3E3E;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.monsterrat{
+    text-align: left;
+    font: normal normal bold 22px/40px Montserrat;
+    letter-spacing: 0px;
+    color: #606060;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.b1{
+    background: #1C5A4C 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.d-w{
+    width: 50%;
+}

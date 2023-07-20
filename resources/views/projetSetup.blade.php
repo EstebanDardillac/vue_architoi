@@ -25,6 +25,7 @@
                 Get Started
             </button>
         </div>
+        <image src="{{ asset('images/Mask Group 21.png') }}" alt="maskGroup21">
     </section>
     <section style="margin-top: 16%;">
         <div class="d-flex justify-content-between" style="width: 70%; height: 10%; margin-left: 8%;">
